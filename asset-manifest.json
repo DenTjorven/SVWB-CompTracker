@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SVWB-CompTracker/static/css/main.f855e6bc.css",
-    "main.js": "/SVWB-CompTracker/static/js/main.433fcea5.js",
+    "main.css": "/SVWB-CompTracker/static/css/main.d80c5949.css",
+    "main.js": "/SVWB-CompTracker/static/js/main.74a1195d.js",
     "index.html": "/SVWB-CompTracker/index.html",
-    "main.f855e6bc.css.map": "/SVWB-CompTracker/static/css/main.f855e6bc.css.map",
-    "main.433fcea5.js.map": "/SVWB-CompTracker/static/js/main.433fcea5.js.map"
+    "main.d80c5949.css.map": "/SVWB-CompTracker/static/css/main.d80c5949.css.map",
+    "main.74a1195d.js.map": "/SVWB-CompTracker/static/js/main.74a1195d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.433fcea5.js"
+    "static/css/main.d80c5949.css",
+    "static/js/main.74a1195d.js"
   ]
 }
