@@ -1,17 +1,18 @@
 import './App.css';
 import { Routes, Route} from "react-router-dom";
-import About from "./routes/About";
-import Careers from "./routes/Careers";
+import Players from "./routes/Players";
+import Tournaments from "./routes/Tournaments";
 import Home from "./routes/Home";
-import Navbar from './Navbar';
+import Navbar from './components/navigation/Navbar';
+
 function App() {
   return (
     <>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/careers" element={<Careers />} />
+        <Route path="/players" element={<Players />} />
+        <Route path="/tournaments" element={<Tournaments />} />
       </Routes>
     </>
   );
