@@ -1,10 +1,10 @@
 import './App.css';
-import { Routes, Route} from "react-router-dom";
-import Players from "./routes/Players";
-import Tournaments from "./routes/Tournaments";
-import Home from "./routes/Home";
+import { Routes, Route } from 'react-router-dom';
+import Players from './routes/Players';
+import Tournaments from './routes/Tournaments';
+import Home from './routes/Home';
 import Navbar from './components/navigation/Navbar';
-
+console.log(Navbar);
 function App() {
   return (
     <>
@@ -17,4 +17,5 @@ function App() {
     </>
   );
 }
+
 export default App;
